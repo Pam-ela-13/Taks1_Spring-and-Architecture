@@ -81,7 +81,7 @@ mvn clean install
 mvn spring-boot:run
 
 # Access the H2 Database Console
-http://localhost:8080/h2-console
+http://localhost:8090/h2-console
 ```
 
 ---
